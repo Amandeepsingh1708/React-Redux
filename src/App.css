@@ -6,4 +6,6 @@
 }
 .add-to-cart img{
   width:50px;
+  float: right;
+  padding-right: 30px;
 }
